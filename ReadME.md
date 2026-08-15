@@ -28,7 +28,7 @@ To achieve a successful print, the geometry underwent an iterative design proces
 
 | Design Iteration | Dimensions | Wall Thickness | Result & Observation |
 | :--- | :--- | :--- | :--- |
-| **Initial Concept** | $2 \times 2 \times 2\text{ cm}^3$[cite: 2] | $1\text{ mm}$ | **Failed:** Structure was overly fragile and broke during external support removal with snippers. |
+| **Initial Concept** | $2 \times 2 \times 2\text{ cm}^3$ | $1\text{ mm}$ | **Failed:** Structure was overly fragile and broke during external support removal with snippers. |
 | **Final Optimized Design** | $4 \times 4 \times 4\text{ cm}^3$ | $3\text{ mm}$ ($+2\text{ mm}$ increase)| **Success:** Provided sufficient structural integrity for clean external support removal while maintaining the hollow geometry. |
 
 ---
