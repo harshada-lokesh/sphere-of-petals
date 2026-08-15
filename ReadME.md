@@ -48,3 +48,8 @@ To achieve a successful print, the geometry underwent an iterative design proces
 ├── media/                  # Print photos and renders
 │   └── sphere_of_petals.jpg
 └── README.md               # Project documentation
+```
+
+<p align="center">
+  <img src="media/sphere_of_petals.jpg" alt="Sphere Of Petals" width="500"/>
+</p>
