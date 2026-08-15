@@ -51,5 +51,5 @@ To achieve a successful print, the geometry underwent an iterative design proces
 ```
 
 <p align="center">
-  <img src="media/sphere_of_petals.jpg" alt="Sphere Of Petals" width="500"/>
+  <img src="media/sphere_of_petals2.jpg" alt="Sphere Of Petals" width="500"/>
 </p>
